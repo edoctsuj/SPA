@@ -159,7 +159,7 @@
                                         <h3>Sales Information</h3>
                                         <div class="form-group row mb-3">
                                             <label for="staticEmail" class="col-sm-3 col-form-label">Salesperson</label>
-                                            <div class="col-sm-9 d-flex">
+                                            <div class="col-sm-9 d-flex align-items-center">
                                                 <select class="form-select custom-form-select"
                                                     aria-label="Default select example">
                                                     <option selected></option>
@@ -172,7 +172,7 @@
                                         </div>
                                         <div class="form-group row mb-3">
                                             <label for="staticEmail" class="col-sm-3 col-form-label">Sales Channel</label>
-                                            <div class="col-sm-9 d-flex">
+                                            <div class="col-sm-9 d-flex align-items-center">
                                                 <select class="form-select custom-form-select"
                                                     aria-label="Default select example">
                                                     <option selected></option>
@@ -256,7 +256,7 @@
                                         <h3>Sales Information</h3>
                                         <div class="form-group row mb-3">
                                             <label for="staticEmail" class="col-sm-3 col-form-label">Salesperson</label>
-                                            <div class="col-sm-9 d-flex">
+                                            <div class="col-sm-9 d-flex align-items-center">
                                                 <select class="form-select custom-form-select"
                                                     aria-label="Default select example">
                                                     <option selected></option>
@@ -269,7 +269,7 @@
                                         </div>
                                         <div class="form-group row mb-3">
                                             <label for="staticEmail" class="col-sm-3 col-form-label">Sales Channel</label>
-                                            <div class="col-sm-9 d-flex">
+                                            <div class="col-sm-9 d-flex align-items-center">
                                                 <select class="form-select custom-form-select"
                                                     aria-label="Default select example">
                                                     <option selected></option>
